@@ -2,3 +2,7 @@
 	path = submodule1
 	url = git@github.com:fyx2490451297/submodule1.git
 	branch = test
+[submodule "submoduleTest"]
+	path = submoduleTest
+	url = git@github.com:fyx2490451297/submodule1.git
+	branch = master
